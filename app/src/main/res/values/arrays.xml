@@ -1,0 +1,6 @@
+<resources>
+  <string-array name="scope">
+    <item>com.samsung.android.goodlock</item>
+    <item>com.sec.android.app.samsungapps</item>
+  </string-array>
+</resources>
